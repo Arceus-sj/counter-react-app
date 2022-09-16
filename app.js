@@ -21,7 +21,7 @@ app.post("/", (req, res) => {
     // res.send("Server is running.");
 
     const city = req.body.cityName;
-    const apiKey = "abb677b5ca91334ddda2fb8b059cfae4";
+    const apiKey = "ENTER ACCESS KEY";
     const units = "metric";
 
 
